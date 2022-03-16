@@ -610,7 +610,7 @@ progress {
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
-  height: auto;
+  height: 10%;
 }
 
 .figure {
@@ -10513,7 +10513,7 @@ textarea.form-control-lg {
   .pe-xl-4 {
     padding-right: 1.5rem !important;
   }
-
+ 
   .pe-xl-5 {
     padding-right: 3rem !important;
   }
